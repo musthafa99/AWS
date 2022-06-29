@@ -1,0 +1,29 @@
+1.What is cloud Computing?
+	Cloud computing is On-demand delivery of IT resources and applications through the internet 
+with pay-as-you-go pricing. Pay on-demand is the aggregated cloud usage from a large number
+of customers results in lower pay-as-you-go prices.
+
+Introduction to EC2:
+	EC2 takes care of the part of setting up physical servers. Such as buying them, setting them up in a 
+data-center and the security part as well.
+
+Mulitlatency:AWS EC2 uses the server as a host which can have multiple servers (EC2 instances) on it.
+
+Using EC2 you are responsible for:
+	Set up and manage your instances	
+	Responsible for patching instances
+	Setting up scale
+	Architect in a highly available setup
+
+On-Demand
+	On-Demand Instances are ideal for short-term, irregular workloads that cannot be interrupted. No upfront costs or minimum contracts apply. The instances run continuously 
+until you stop them, and you pay for only the compute time you use.
+
+Reserved Instances	
+	Reserved Instances are a billing discount applied to the use of On-Demand Instances in your account. You can purchase Standard Reserved and Convertible Reserved Instances for a 1-year or 3-year term, and Scheduled Reserved Instances for a 1-year term. 
+You realize greater cost savings with the 3-year option.
+
+Spot Instances
+	Spot Instances are ideal for workloads with flexible start and end times, or that can withstand interruptions.Spot Instances use unused Amazon EC2 computing capacity and offer you cost savings at up to 90% off of On-Demand prices.
+Dedicates Host:
+	Dedicated Hosts are physical servers with Amazon EC2 instance capacity that is fully dedicated to your use. 
