@@ -1,0 +1,19 @@
+GLOBAL INFRASTRUCTURE
+	Each region is made up of multiple of data centers. AWS calls a single data center or a group of data centers a availability zone or AZ. 
+AWS data centers have redundant power, networking and connectivity.
+
+EDGE LOCATONS
+	A site that cloudFront uses to cache copies of your content for faster delivery to users at any Location.
+AWS provides a CDN (Content Delivery Network) uses edge locations to accelerate communications with customers around the world.
+
+How to interact with Aws Services?
+	There are few ways to interact with aws Services,they are
+		1.AWS management console (web based, visually)
+		2.AWS Command line interface (CLI - API calls via terminal)			
+		3.AWS Software Development Kits (SDKs - interface for different programming languages)
+Elastic BeanStalk:
+	Elastic Beanstalk is AWS managed service that EC2 Instances.It is an easy-to-use AWS Service
+for deploying and scaling web applications and services deployed with Python,Ruby,Java.
+
+Cloud Formation:
+	Cloud formation is a service that AWS provides to provision services through scripts (code tool).Through XML or JSON declarative scripts called CloudFormation templates.
