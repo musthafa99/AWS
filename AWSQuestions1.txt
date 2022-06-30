@@ -1,0 +1,81 @@
+1.Which Aws services be used for readd/write of constantly changed data(Any2)
+a.Amazon Glacier
+b.Amazon RDS
+c.Amazon Snowball
+d.Amazon Redshift
+e.Amazon EFS
+
+Answers:b,e
+
+2.A customer needs to run a MySQL database that easily scales.WhichAWS service should they
+use?.
+a.Amazon Aurora
+b.Amazon Redshift
+c.Amazon DynamoDB
+d.Amazon ElastiCache
+Answer: a
+
+3.Which of the following components of AWS Global Infrastructure consists of one or more discrete data centres interconnceted through low latency links?.
+a.Availabity Zone
+b.Edge Location
+c.Region
+d.Private networking  
+Answer: a
+
+4.Which of the following is shared control between the customer and AWS?.
+a.providing key for Amazon S3 client-side encryption.
+b.Configuration of an Amazon EC2 instance.
+c.Environmental controls of physical AWS data centers
+d.Awareness and training.
+Answer:d
+
+5.How many Availibilty ZOnes should compute resources to be provisioned across to acheive high availabilty?.
+a.A minimum of one
+b.A minimum of two
+c.A minimum of three
+d.A minimum of four or more
+Answer: b
+
+6.What is the lowest-cost,durable storage option for retaining database backups for immediate retrieval?.
+a.Amazon S3
+b.Amazon Glacier
+c.Amazon EBS
+d.Amazon EC2 Insatance Store.
+Answer: c
+
+7.What is another name for on-premises deployment?
+a.Private cloud deployment
+b.Cloud-based application
+c.Hybrid deployment
+d.AWS Cloud
+Answer:a
+
+8.What are the contract length options for Amazon EC2 Reserved Instances? (Select TWO.)
+a.1 year
+b.2 years
+c.3 years
+d.4 years
+e.5 years
+Answer:a,c
+
+9.You have a workload that will run for a total of 6 months and can withstand interruptions. What would be the most cost-efficient Amazon EC2 purchasing option?
+a.Reserved Instance
+b.Spot Instance
+c.Dedicated Instance
+d.On-Demand Instance
+Answer:b
+
+10.You want to deploy and manage containerized applications. Which service should you use?
+a.AWS Lambda
+b.Amazon Simple Notification Service (Amazon SNS)
+c.Amazon Simple Queue Service (Amazon SQS)
+d.Amazon Elastic Kubernetes Service (Amazon EKS)
+Answer:d
+
+11.Which component or service can be used to establish a private dedicated connection between your company’s data center and AWS?
+
+A.Private subnet
+B.DNS
+C.AWS Direct Connect
+D.Amazon CloudFront
+Answer:c
