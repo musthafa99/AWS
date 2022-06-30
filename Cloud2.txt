@@ -1,0 +1,20 @@
+What is a client-server model?
+	In computing, a client can be a web browser or desktop application that a person interacts
+with to make requests to computer servers. A server can be services such as Amazon Elastic
+Compute Cloud (Amazon EC2), a type of virtual server.
+
+Deployment models for cloud computing
+
+Cloud-Based Deployment
+Run all parts of the application in the cloud.
+Migrate existing applications to the cloud.
+Design and build new applications in the cloud.
+
+On-Premises Deployment
+Deploy resources by using virtualization and resource management tools.
+Increase resource utilization by using application management and virtualization
+technologies.
+
+Hybrid Deployment
+Connect cloud-based resources to on-premises infrastructure.
+Integrate cloud-based resources with legacy IT applications.
