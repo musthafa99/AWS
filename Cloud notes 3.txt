@@ -1,0 +1,32 @@
+			Instance Types
+1.Genral purpose instances:
+	General purpose instances provide a balance of compute, memory, and networking resources. 
+You can use them for a variety of workloads, such as:
+	1.application servers
+	2.gaming servers
+	3.backend servers for enterprise applications
+	4.small and medium databases
+
+2.Computer optimized instances:
+	Compute optimized instances are ideal for compute-bound applications that benefit 
+from high-performance processors. Like general purpose instances, you can use compute 
+optimized instances for workloads such as web, application, and gaming servers.
+
+3.Memory Optimized Instances:
+	Memory optimized instances are designed to deliver fast performance 
+for workloads that process large datasets in memory. In computing, 
+memory is a temporary storage area. It holds all the data and 
+instructions that a central processing unit (CPU) needs to be 
+able to complete actions.
+
+4.Accelerated computing instances:
+	Accelerated computing instances use hardware accelerators, or coprocessors, 
+to perform some functions more efficiently than is possible in software running on CPUs. 
+
+5.Storage optimized instances:
+	Storage optimized instances are designed for workloads that require high, sequential read and write access to large datasets on local storage. 
+
+		Message and Queuing
+Amazon Simple Notification Service (Amazon SNS):
+		Amazon Simple Notification Service (Amazon SNS) is a publish/subscribe service. Using Amazon SNS topics, a publisher publishes messages to subscribers.
+In Amazon SNS, subscribers can be web servers, email addresses, AWS Lambda functions, or several other options. 
