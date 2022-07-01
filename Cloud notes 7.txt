@@ -1,0 +1,19 @@
+User Permissions And Access:
+	AWS Identity and Access Management allows you to manage access to AWS services and resources.
+The root account is the owner of the AWS account, this is the default permission for an aws created account. The root user account controls any resources. As such, the recommended security approach is to turn on MF2, for this account.
+Users created by IAM, have no permissions by default
+IAM groups are groups of users, you can attach policies to a group and all users in that group will have the permissions listed there.
+IAM roles have associated permissions that allow or deny actions in aws, and this roles can be assume for temporary amount of time.
+
+Security on Cloud:
+	Customers and AWS are reponsible for Security on the cloud.
+
+Customer Security on Cloud:
+	Customers are reponsible for the security of everything that they create and put in the AWS Cloud.
+You are responsible for managing security requirements for your content, including which content you choose to store on AWS, which AWS services you use, and who has access to that content. You also control how access rights are granted, managed, and revoked.
+
+AWS Security on Cloud:
+	AWS is responsible for security of the cloud.AWS operates, manages, and controls the components at all layers of infrastructure. This includes areas 
+such as the host operating system, the virtualization layer, and even the physical security of the data centers from which services operate. 
+AWS is responsible for protecting the global infrastructure that runs all of the services offered in the AWS Cloud. 
+This infrastructure includes AWS Regions, Availability Zones, and edge locations.
