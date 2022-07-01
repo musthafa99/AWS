@@ -1,0 +1,33 @@
+Deployment models for cloud computing:
+1.cloud-based deployment:
+	In a cloud-based deployment model, you can migrate existing applications to the cloud,or you can design and build new applications in the cloud.
+	Run all parts of the application in the cloud.
+	Migrate existing applications to the cloud.
+	Design and build new applications in the cloud.
+
+2.On-premises deployment: is also known as a private cloud deployment. 
+	In this model, resources are deployed on premises by using virtualization and resource management tools.
+	Deploy resources by using virtualization and resource management tools.
+	Increase resource utilization by using application management and virtualization technologies.
+
+3.hybrid deployment:
+	In a hybrid deployment, cloud-based resources are connected to on-premises infrastructure. 
+You might want to use this approach in a number of situations.Connect cloud-based resources to on-premises infrastructure.
+
+Benefits of cloud computing:
+	Stop spending money to run and maintain data centers
+	Increase speed and agility
+	Benefit from massive economies of scale
+
+Types of cloud computing:
+
+1.Infrastructure as a Service (IaaS):
+	Infrastructure as a Service, sometimes abbreviated as IaaS, contains the basic building blocks for cloud IT and typically provide access to networking features, 
+computers (virtual or on dedicated hardware), and data storage space.
+
+2.Platform as a Service (PaaS):
+	Platforms as a service remove the need for organizations to manage the underlying infrastructure and allow you to focus on the deployment 
+and management of your applications.
+
+3.Software as a Service (SaaS):
+	Software as a Service provides you with a completed product that is run and managed by the service provider. 
