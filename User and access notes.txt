@@ -1,0 +1,34 @@
+AWS Identity and Access Management (IAM):
+	AWS Identity and Access Management (IAM) enables you to manage access to AWS services and resources securely.   
+IAM gives you the flexibility to configure access based on your company’s specific operational and security needs. 
+You do this by using a combination of IAM features,
+	IAM users, groups, and roles
+	IAM policies	
+	Multi-factor authentication
+
+AWS account root user:
+	When you first create an AWS account, you begin with an identity known as the root user. 
+	The root user is accessed by signing in with the email address and password that you used to create your AWS account.  
+	It has complete access to all the AWS services and resources in the account.
+
+IAM users:
+	An IAM user is an identity that you create in AWS. It represents the person or application that interacts with AWS services and resources. It consists of a name and credentials.
+By default, when you create a new IAM user in AWS, it has no permissions associated with it. To allow the IAM user to perform specific actions in AWS, 
+such as launching an Amazon EC2 instance or creating an Amazon S3 bucket, you must grant the IAM user the necessary permissions.
+
+IAM policies:
+	An IAM policy is a document that allows or denies permissions to AWS services and resources.  
+IAM policies enable you to customize users levels of access to resources. For example, you can allow users to access all of the Amazon S3 buckets within your AWS account, or only a specific bucket.
+
+IAM groups:
+	An IAM group is a collection of IAM users. When you assign an IAM policy to a group, all users in the group are granted permissions specified by the policy.
+
+IAM roles:
+	An IAM role is an identity that you can assume to gain temporary access to permissions.Before an IAM user, application, or service can assume an IAM role, they must be granted permissions to switch to the role. When someone assumes an IAM role, they aband on 
+all previous permissions that they had under a previous role and assume the permissions of the new role.
+
+Multi-factor authentication:
+	You might have needed to provide your password and then a second form of authentication, such as a random code sent to your phone. This is an example of multi-factor authentication.
+In IAM, multi-factor authentication (MFA) provides an extra layer of security for your AWS account.
+
+ 
