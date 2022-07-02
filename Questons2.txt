@@ -1,0 +1,74 @@
+1.Which statement best describes an IAM policy?
+a.An authentication process that provides an extra layer of protection for your AWS account
+b..A document that grants or denies permissions to AWS services and resources
+c.An identity that you can assume to gain temporary access to permissions
+d.The identity that is established when you first create an AWS account
+Answer:b
+
+2.An employee requires temporary access to create several Amazon S3 buckets. Which option would be the best choice for this task?
+a.AWS account root user
+b.IAM group
+c.IAM role
+d.Service control policy (SCP)
+Answer:c
+
+3.Which statement best describes the principle of least privilege?
+a.Adding an IAM user into at least one IAM group
+b.Checking a packet’s permissions against an access control list
+c.Granting only the permissions that are needed to perform specific tasks
+d.Performing a denial of service attack that originates from at least one device
+Answer:d
+
+4.Which pricing tool is used to visualize, understand, and manage your AWS costs and usage over time?
+a.AWS Pricing Calculator
+b.AWS Budgets
+c.AWS Cost Explorer
+d.AWS Free Tier
+Answer:c
+
+5.Which pricing tool enables you to receive alerts when your service usage exceeds a threshold that you have defined?
+a.Billing dashboard in the AWS Management Console
+b.AWS Budgets
+c.AWS Free Tier
+d.AWS Cost Explorer
+Answer:b
+
+6.Your company wants to receive support from an AWS Technical Account Manager (TAM). Which support plan should you choose?
+a.Developer
+b.Enterprise
+c.Basic
+d.Business
+Answer:b
+
+7.What are the TWO main security layers (firewalls) used inside a VPC? Choose the 2 Correct answers:
+a.NetProtect
+b.Network Access Control List
+c.Security Group
+d.Security Lists
+Answer:b,c
+
+8.What is a main benefit of CloudFront?Choose the Correct Answer
+a.DNS management
+b.Unlimited storage
+c.Serverless compute capacity
+d.Built-in DDoS protection
+Answer-d
+
+9.Children's All Saints Hospital has millions of old medical records that they must save for regulatory reasons. These records will most likely never be accessed again. What is the best and most cost effective S3 storage option that will meet the hospital’s needs?
+Choose the Correct Answer
+a.Standard
+b.Infrequent Access
+c.Glacier
+d.Reduced Redundacy
+Answer-c
+
+10.Using AWS Config to record, audit, and evaluate changes to AWS resources to enable traceability is an example of which AWS Well-Architected Framework pillar?
+a.Security
+b.Operational excellence
+c.Performance efficiency
+d.Cost optimization
+Answer:a
+
+
+
+
