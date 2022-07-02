@@ -46,5 +46,12 @@ AWS CloudTrail:
 	AWS CloudTrail records API calls for your account. The recorded information includes the identity of the API caller, the time of the API call, the source IP address of the API caller, and more.
 With CloudTrail, you can view a complete history of user activity and API calls for your applications and resources. 
 
+AWS Trusted Advisor:
+	AWS Trusted Advisor is a web service that inspects your AWS environment and provides real-time recommendations in accordance with AWS best practices.
+
+Trusted Advisor compares its findings to AWS best practices in five categories: cost optimization, performance, security, fault tolerance, and service limits. For the checks in each category, Trusted Advisor offers a list of recommended actions and additional resources to learn more about AWS best practices. 
+
+
+
 
  
