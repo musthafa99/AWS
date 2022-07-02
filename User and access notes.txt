@@ -31,4 +31,20 @@ Multi-factor authentication:
 	You might have needed to provide your password and then a second form of authentication, such as a random code sent to your phone. This is an example of multi-factor authentication.
 In IAM, multi-factor authentication (MFA) provides an extra layer of security for your AWS account.
 
+
+AmazonCloud Watch:
+	Amazon CloudWatch is a web service that enables you to monitor and manage various metrics and configure alarm actions based on data from those metrics.
+CloudWatch uses metrics to represent the data points for your resources. AWS services send metrics to CloudWatch. CloudWatch then uses these metrics to create graphs automatically that show how performance has changed over time. 
+
+CloudWatch alarms:
+	With CloudWatch, you can create alarms that automatically perform actions if the value of your metric has gone above or below a predefined threshold.
+
+CloudWatch dashboard:
+	The CloudWatch dashboard feature enables you to access all the metrics for your resources from a single location.You can even customize separate dashboards for different business purposes, applications, or resources.
+
+AWS CloudTrail:
+	AWS CloudTrail records API calls for your account. The recorded information includes the identity of the API caller, the time of the API call, the source IP address of the API caller, and more.
+With CloudTrail, you can view a complete history of user activity and API calls for your applications and resources. 
+
+
  
